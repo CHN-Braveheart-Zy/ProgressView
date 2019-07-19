@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ProgressView">
+        <attr name="progress_text_color" format="color" /><!--进度文字颜色-->
+        <attr name="background_color" format="color" /><!--进度条背景颜色-->
+        <attr name="progress_color" format="color" /><!--进度颜色-->
+        <attr name="max_value" format="integer" /><!--进度最大值-->
+        <attr name="text_size" format="integer" /><!--进度文字大小-->
+    </declare-styleable>
+</resources>
